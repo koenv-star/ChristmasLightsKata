@@ -1,5 +1,5 @@
 # From https://github.com/github/gitignore/blob/master/Gradle.gitignore
-.gradle
+/.gradle
 /build/
 
 # Ignore Gradle GUI config
@@ -9,7 +9,7 @@ gradle-app.setting
 !gradle-wrapper.jar
 
 # Cache of project
-.gradletasknamecache
+/.gradletasknamecache
 
 # From https://github.com/github/gitignore/blob/master/Java.gitignore
 *.class
@@ -34,5 +34,5 @@ gradle-app.setting
 /out/
 
 # mpeltonen/sbt-idea plugin
-.idea_modules/
+/.idea_modules/
 
